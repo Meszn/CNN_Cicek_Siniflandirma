@@ -173,17 +173,6 @@ CNN_Cicek_Siniflandirma/
 └── training_history_loss.png       # Eğitim kayıp grafiği
 ```
 
----
-
-## 🔮 Gelecek Geliştirmeler
-
-- [ ] Transfer Learning (VGG16, ResNet50) ile model performansını artırma
-- [ ] Confusion Matrix ve sınıf bazlı precision/recall analizi
-- [ ] Grad-CAM ile modelin karar mekanizmasını görselleştirme
-- [ ] Flask/Streamlit ile web arayüzü oluşturma
-- [ ] Model quantization ile mobil dağıtım
-
----
 
 ## 🛠️ Kullanılan Teknolojiler
 
